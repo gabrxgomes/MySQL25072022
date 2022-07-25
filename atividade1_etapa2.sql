@@ -1,0 +1,7 @@
+CREATE DATABASE DB_RH;
+
+USE DB_RH;
+
+CREATE table TB_FUNC (
+
+);
